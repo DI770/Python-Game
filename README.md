@@ -2,10 +2,10 @@
  
 - [Contents](#contents)
 - [Introduction](#introduction)
-  - [Problems](#problems)
-  - [Material](#material)
-    - [Youtube Videos](#youtube-videos)
-      - [Extra Word](#extra-word)
+- [Problems](#problems)
+- [Material](#material)
+- [Youtube Videos](#youtube-videos)
+- [Extra Word](#extra-word)
 
 # Introduction
 
