@@ -32,8 +32,8 @@ My biggest problem in this assignment was to make the ball to be able to collide
 
 ### Links
 
-[Python coding site](https://replit.com/@PeterKarlsson2)
-[Python coding site](https://replit.com/join/bxjoevpyas-peterkarlsson2)
+[Replit Site](https://replit.com/@PeterKarlsson2)
+[Replit coding site](https://replit.com/join/bxjoevpyas-peterkarlsson2)
 
 #### Extra Word
 
